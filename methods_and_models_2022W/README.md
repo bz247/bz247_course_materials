@@ -13,10 +13,13 @@ Alternatively, you can also run the code on your laptop if you have Python and J
 
 
 ### Data
-Data needed for the notebooks can be downloaded from https://tuwienacat-my.sharepoint.com/:u:/g/personal/bingyu_zhao_tuwien_ac_at/EbSDlN7P2YZKtvbbjyGNHJwBGAqtGRTWbgA3oFfx_bJL5A?e=5JAaRA
+Data needed for the notebooks can be downloaded from the link below:
+1. vienna gtfs: https://tuwienacat-my.sharepoint.com/:u:/g/personal/bingyu_zhao_tuwien_ac_at/ESUlyvo8eXRKn8_DbM4Lc0IBL9mV6aDohYkAWBGdVsSraw
+2. fuel consumption: https://tuwienacat-my.sharepoint.com/:u:/g/personal/bingyu_zhao_tuwien_ac_at/EZ22m3LbIM9Lp7QJlWiOKYYB_JVX-V3t3v84sYOZ7SPNFw
 
 Data sources:
-1. regression_emission_data: raw data are from Oh et al. (2022). Vehicle Energy Dataset https://github.com/gsoh/VED, or see the paper at https://ieeexplore.ieee.org/document/9262035/. 
-2. vienna_gtfs: raw data are from https://www.transit.land/feeds/f-u2ed-wienerlinien~wlb/ 
+1. vienna_gtfs: raw data are from https://www.transit.land/feeds/f-u2ed-wienerlinien~wlb/ 
+2. regression_emission_data: raw data are from Oh et al. (2022). Vehicle Energy Dataset https://github.com/gsoh/VED, or see the paper at https://ieeexplore.ieee.org/document/9262035/
+
 
 Both datasets have been heavily processed and interested readers should refer to the original datasets.
