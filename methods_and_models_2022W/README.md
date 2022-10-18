@@ -2,12 +2,12 @@
 
 ### Notebooks
 * [descriptive_statistics.ipynb](descriptive_statistics.ipynb): processes GTFS data and generates the trajectory plots for service runs of Wiener Lienen.
-	* To run the code on Google colab, click here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bz247_course_materials/blob/master/methods_and_models_2022W/descriptive_statistics.ipynb)
+	* To run the code on Google colab, click here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bz247/bz247_course_materials/blob/master/methods_and_models_2022W/descriptive_statistics.ipynb)
 	* [transit_sim.py](transit_sim.py): snippets from the open-sourced transit simulation program [transit_sim](https://github.com/cb-cities/transit_sim) to assist data cleaning.
 * [discrete_choice.ipynb](discrete_choice.ipynb): runs a simple random utility model for three route options between Längenfeldgasse to Stephansplatz.
-	* To run the code on Google colab, click here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bz247_course_materials/blob/master/methods_and_models_2022W/discrete_choice.ipynb)
+	* To run the code on Google colab, click here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bz247/bz247_course_materials/blob/master/methods_and_models_2022W/discrete_choice.ipynb)
 * [regression.ipynb](regression.ipynb): performs nonlinear regression on transformed vehicle energy use dataset.
-	* To run the code on Google colab, click here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bz247_course_materials/blob/master/methods_and_models_2022W/regression.ipynb)
+	* To run the code on Google colab, click here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bz247/bz247_course_materials/blob/master/methods_and_models_2022W/regression.ipynb)
 
 Alternatively, you can also run the code on your laptop if you have Python and Jupyter Notebook (e.g., Anaconda or Jupyter Lab) installed.
 
